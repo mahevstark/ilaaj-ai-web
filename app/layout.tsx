@@ -5,20 +5,20 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Ilaaj AI - AI-Powered Health & Nutrition Tracking',
-  description: 'Track your health, nutrition, and fitness goals with AI-powered insights. The all-in-one health tracking app for real life.',
-  keywords: 'health tracking, nutrition, fitness, AI, wellness, calorie tracking, health goals',
-  authors: [{ name: 'Ilaaj AI Team' }],
+  title: 'IlaajAI - Your AI-Powered Health Companion',
+  description: 'Get instant health advice in Urdu or English. Chat with AI, send photos, record voice notes, and find nearby doctors. Trusted by 10,000+ patients in Pakistan.',
+  keywords: 'AI doctor, medical assistant, health advice, Pakistan, Urdu, telemedicine, first aid, doctor finder, health tech',
+  authors: [{ name: 'IlaajAI Team' }],
   openGraph: {
-    title: 'Ilaaj AI - AI-Powered Health & Nutrition Tracking',
-    description: 'Track your health, nutrition, and fitness goals with AI-powered insights.',
+    title: 'IlaajAI - Your AI-Powered Health Companion',
+    description: 'Get instant health advice in Urdu or English. Chat with AI, send photos, record voice notes, and find nearby doctors.',
     type: 'website',
     locale: 'en_US',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Ilaaj AI - AI-Powered Health & Nutrition Tracking',
-    description: 'Track your health, nutrition, and fitness goals with AI-powered insights.',
+    title: 'IlaajAI - Your AI-Powered Health Companion',
+    description: 'Get instant health advice in Urdu or English. Chat with AI, send photos, record voice notes, and find nearby doctors.',
   },
 }
 
