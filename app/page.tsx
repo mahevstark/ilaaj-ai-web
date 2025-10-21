@@ -368,7 +368,7 @@ export default function Home() {
                     </div>
                     <div className="flex-1">
                       <p className="text-sm text-gray-700">
-                        Hello! I'm your AI health assistant. How can I help you today? You can describe your symptoms, send a photo, or record a voice message.
+                        Hello! I&apos;m your AI health assistant. How can I help you today? You can describe your symptoms, send a photo, or record a voice message.
                       </p>
                     </div>
                   </div>
@@ -657,7 +657,7 @@ export default function Home() {
                     Quick Phone Login
                   </h3>
                   <p className="text-lg text-gray-300">
-                    Simply enter your Pakistani phone number, verify with OTP, and you're ready to start chatting with your AI health assistant.
+                    Simply enter your Pakistani phone number, verify with OTP, and you&apos;re ready to start chatting with your AI health assistant.
                   </p>
                 </motion.div>
               </div>
@@ -720,7 +720,7 @@ export default function Home() {
                           <span className="text-white text-xs">AI</span>
                         </div>
                         <div className="bg-gray-100 rounded-lg p-2 max-w-xs">
-                          <p className="text-xs text-gray-700">Hello! I'm your AI health assistant. How can I help you today?</p>
+                          <p className="text-xs text-gray-700">Hello! I&apos;m your AI health assistant. How can I help you today?</p>
                         </div>
                       </div>
                       
@@ -804,7 +804,7 @@ export default function Home() {
                         </div>
                         <span className="text-sm font-semibold">AI Analysis Complete</span>
                       </div>
-                      <p className="text-xs text-gray-600">Based on your symptoms, here's your health assessment:</p>
+                      <p className="text-xs text-gray-600">Based on your symptoms, here&apos;s your health assessment:</p>
                     </div>
                     
                     {/* Health Metrics */}
